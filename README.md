@@ -1,2 +1,3 @@
 # hello-world
-just start using github
+
+As the editor, I'm writing a bit about myself.
